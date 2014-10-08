@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1412799762 source:c:\users\tclark\documents\code blocks\matrix_manipulation\main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+
